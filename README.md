@@ -221,7 +221,7 @@ ou
 
 [Atividade II](https://github.com/analuuuzz/hello-world.git)
 
-[Atividade II](https://github.com/analuuuzz/anaprojetointegrador.git)
+[Atividade III](https://github.com/analuuuzz/anaprojetointegrador.git)
 
 ### CINDY LAUREN DE SOUZA FEITOZA
 
