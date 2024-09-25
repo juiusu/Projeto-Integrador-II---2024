@@ -3,9 +3,8 @@
 # Projeto-Integrador-II---2024
 
 
-> <img src="ifam-logo.png" alt="Minha Imagem" width="20" > Instituto Federal do Amazonas - *Campus* Eirunepé 
-
-
+> <img src="ifam-logo.png" alt="Minha Imagem" width="20" > Instituto Federal do Amazonas - *Campus* Eirunepé
+> 
 Este projeto está vinculado à disciplina Projeto Integrador II ofertada ao Curso Técnico de Nível Médio em Informática do IFAM - Campus Eirunepé , no ano de 2024.
 
 Ele estará disponível para que os alunos possam acessar os materiais e atividades desenvolvidos ao longo da disciplina.
@@ -256,6 +255,13 @@ ou
 [Atividade III](https://github.com/ThalesDeMileto/Projeto_IntegradorII.git)
 
 ### WESLEY KAINAN DE SOUZA OLIVEIRA
+[Atividade I](https://github.com/wesleykainan/projetointegradorII.git)
+
+[Atividade II](https://github.com/wesleykainan/Projetos-exemplos-office)
+
+[Atividade III](https://github.com/wesleykainan/Modelo-Office) 
+
+
 ### YASMIM LUCAS BARBOSA
 			   
 	
