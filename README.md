@@ -237,6 +237,9 @@ ou
 ### JOAO GABRIEL CAVALCANTE LEITAO
 [Atividade II](https://github.com/GabrielCavalcante123/hello-world.git)
 ### JOAO LUCAS CUNHA DA COSTA
+[Atividade I](https://github.com/JoaoLucasCunha/Projeto-Integrador-II.git)
+[Atividade II](https://github.com/JoaoLucasCunha/hello-world.git)
+[Atividade III](https://github.com/JoaoLucasCunha/Exemplos_Office.git)
 ### JUNIOR ALMEIDA DAS CHAGAS
 ### LAISSA ALCANTARA GOMES
 ### LARIANE PEREIRA DE ARAUJO
