@@ -238,6 +238,7 @@ ou
 [Atividade II](https://github.com/GabrielCavalcante123/hello-world.git)
 ### JOAO LUCAS CUNHA DA COSTA
 ### JUNIOR ALMEIDA DAS CHAGAS
+[Atividade III](https://github.com/jralmeid/Office-B-sico)
 ### LAISSA ALCANTARA GOMES
 ### LARIANE PEREIRA DE ARAUJO
 ### LEOSMARA COLAÇO MINELVINO
