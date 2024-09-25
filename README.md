@@ -243,6 +243,9 @@ ou
 ### LEOSMARA COLAÇO MINELVINO
 ### MARIA ITAUANA DE ALMEIDA SARAIVA
 ### MURILO GABRIEL DA SILVA ARAUJO
+[AtividadeI](https://github.com/mullow/projetoGitMurillo)
+[AtividadeII](https://github.com/mullow/HELLO-WORLD)
+[AtividadeIII](https://github.com/mullow/OFFICE-B-SICO---Projeto-Integrador)
 ### OLIVER BRYAN CAVALCANTE GUILHERME
 [AtividadeI](https://github.com/OliverBryanCavalcante/projeto-integrador-2-)
 [AtvidadeII](https://github.com/OliverBryanCavalcante/hello-word-)
