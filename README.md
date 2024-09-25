@@ -234,6 +234,8 @@ ou
 [Atividade I](https://github.com/herbertnatan/ProjetoIntegrador2.git)
 
 ### JOAO ANTONIO FAUSTINO DE BARROS
+[Atividade I](https://github.com/domjoao19/Projeto-integrador.git)
+[Atividade II]()
 ### JOAO GABRIEL CAVALCANTE LEITAO
 [Atividade II](https://github.com/GabrielCavalcante123/hello-world.git)
 ### JOAO LUCAS CUNHA DA COSTA
