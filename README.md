@@ -245,7 +245,10 @@ ou
 [Atividade II](https://github.com/JoaoLucasCunha/hello-world.git)
 [Atividade III](https://github.com/JoaoLucasCunha/Exemplos_Office.git)
 ### JUNIOR ALMEIDA DAS CHAGAS
+[Atividade I](https://github.com/jralmeid/Projeto-integrador2)
+[Atividade II](https://github.com/jralmeid/hello-world)
 [Atividade III](https://github.com/jralmeid/Office-B-sico)
+
 ### LAISSA ALCANTARA GOMES
 ### LARIANE PEREIRA DE ARAUJO
 ### LEOSMARA COLAÇO MINELVINO
