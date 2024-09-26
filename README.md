@@ -262,6 +262,7 @@ ou
 ### RILARY CAVALCANTE DE SOUZA
 ### RITA DE CASSIA ALVES GOIANO
 [Atividade I](https://github.com/rita-maromba/ProjetoIntegrador2.git)
+[Atividade II](https://github.com/rita-maromba/hello-world.git)
 [Atividade III](https://github.com/rita-maromba/Arquivos_do_pacote_office.git)
 ### SAMUEL BRITO DE LIMA CARDOSO
 ### THALIEL DA SILVA XAVIER
