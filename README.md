@@ -249,6 +249,8 @@ ou
 ### LAISSA ALCANTARA GOMES
 ### LARIANE PEREIRA DE ARAUJO
 ### LEOSMARA COLAÇO MINELVINO
+[Atividade I](https://github.com/Leosmara-Minelvino/ProjetoIntegrador2.git)
+[Atividade III](https://github.com/Leosmara-Minelvino/Arquivos_Office.git)
 ### MARIA ITAUANA DE ALMEIDA SARAIVA
 ### MURILO GABRIEL DA SILVA ARAUJO
 [AtividadeI](https://github.com/mullow/projetoGitMurillo)
