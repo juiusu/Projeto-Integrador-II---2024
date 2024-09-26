@@ -261,6 +261,8 @@ ou
 ### PEDRO RENNECK DE SOUZA
 ### RILARY CAVALCANTE DE SOUZA
 ### RITA DE CASSIA ALVES GOIANO
+[Atividade I](https://github.com/rita-maromba/ProjetoIntegrador2.git)
+[Atividade III](https://github.com/rita-maromba/Arquivos_do_pacote_office.git)
 ### SAMUEL BRITO DE LIMA CARDOSO
 ### THALIEL DA SILVA XAVIER
 [Atividade I](https://github.com/ThalesDeMileto/Projeto-Integrador-II.git)
