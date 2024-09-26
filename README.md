@@ -259,6 +259,8 @@ ou
 [AtvidadeII](https://github.com/OliverBryanCavalcante/hello-word-)
 [AtividadeIII](https://github.com/OliverBryanCavalcante/Exemplos-do-Office)
 ### PEDRO RENNECK DE SOUZA
+[Atividade I](https://github.com/PedroRenneck/PROJETO-INTEGRADOR-II.git)
+[Atividade III](https://github.com/PedroRenneck/ArquivosDoOffice.git)
 ### RILARY CAVALCANTE DE SOUZA
 ### RITA DE CASSIA ALVES GOIANO
 ### SAMUEL BRITO DE LIMA CARDOSO
