@@ -260,6 +260,9 @@ ou
 [AtividadeIII](https://github.com/OliverBryanCavalcante/Exemplos-do-Office)
 ### PEDRO RENNECK DE SOUZA
 ### RILARY CAVALCANTE DE SOUZA
+[Atividade I](https://github.com/Ri74ry/Projetointegrador2)_
+[Atividade II](https://github.com/Ri74ry/hello-word)_
+[Atividade III](https://github.com/Ri74ry/OFFICE-BASICO)_
 ### RITA DE CASSIA ALVES GOIANO
 ### SAMUEL BRITO DE LIMA CARDOSO
 ### THALIEL DA SILVA XAVIER
